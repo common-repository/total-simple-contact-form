@@ -1,0 +1,8 @@
+#tscf-contact-form{width:inherit; }
+#tscf_contact_name{width: 200px;}
+#tscf_contact_email{width: 400px;}
+#tscf_contact_message{width: 600px;}
+#tscf_contact_captcha{width:200px;}
+#tscf_thanks{border: 0px solid #ddd;background-color: #FFD700;margin-bottom:10px;}
+#captcha_input{clear:both;}
+.error_text{border: 1px solid #ddd; background-color: #ff6600;margin-bottom:10px;}

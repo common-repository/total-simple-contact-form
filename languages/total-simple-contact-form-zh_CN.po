@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Total Simple Contact Form\n"
+"POT-Creation-Date: 2015-10-01 23:34+0200\n"
+"PO-Revision-Date: 2016-03-17 11:27+0100\n"
+"Last-Translator: Qing Zhu <info@zhu-qing.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: total_simple_contact_form.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: total_simple_contact_form.php:35
+msgid ""
+"Please enter your contact details and a short message below and we will try to answer "
+"your query as soon as possible."
+msgstr "请输入您的联系方式和信息。我们会尽快回复您。"
+
+#: total_simple_contact_form.php:40
+msgid "Your message was sent successfully."
+msgstr "留言已发送。"
+
+#: total_simple_contact_form.php:41
+msgid "Thank you for your submission! We will contact you very shortly."
+msgstr "谢谢您的留言。我们会尽快和您联系。"
+
+#: total_simple_contact_form.php:45
+msgid "Name: *"
+msgstr "姓名：*"
+
+#: total_simple_contact_form.php:48
+msgid "Email Address: *"
+msgstr "邮箱地址：*"
+
+#: total_simple_contact_form.php:50
+msgid "Message: *"
+msgstr "留言：*"
+
+#: total_simple_contact_form.php:53
+msgid "Re-type the following text with capital letter *"
+msgstr "请用大写字母填写效验码*"
+
+#: total_simple_contact_form.php:55
+msgid "Refresh Captcha"
+msgstr "刷新效验码"
+
+#: total_simple_contact_form.php:39
+msgid "You need a copy: "
+msgstr "您需要邮件副本: "
+
+#: total_simple_contact_form.php:59
+msgid "Send Message"
+msgstr "发送留言"
+
+#: total_simple_contact_form.php:175
+msgid "Email from: "
+msgstr "发件人姓名： "
+
+#: total_simple_contact_from.php:178
+msgid "Message from "
+msgstr "留言来自"
+
+#: total_simple_contact_from.php:179
+msgid "Copy from Message to "
+msgstr "留言附件来自"
+
+#: total_simple_contact_from.php:176
+msgid "Email Address: "
+msgstr "发件人邮箱地址： "
+
+#: total_simple_contact_from.php:177
+msgid "Message: "
+msgstr "留言： "
+
+#: total_simple_contact_from.php:42
+msgid "Your name"
+msgstr "您的姓名"
+
+#: total_simple_contact_from.php:43
+msgid "Your email"
+msgstr "您的邮箱地址"
+
+#: total_simple_contact_from.php:44
+msgid "Your message"
+msgstr "您的留言"
+
+#: total_simple_contact_from.php:45
+msgid "Captcha"
+msgstr "效验码"
+
+#: total_simple_contact_from.php:51
+msgid "Please complete the required field."
+msgstr "请填写必填栏。"
+
+#: total_simple_contact_from.php:52
+msgid "Captcha code is wrong. Try to get it right or reload it to get a new captcha code."
+msgstr "验证码错误。请正确填写或者刷新验证码，从而得到一个新的图形效验码。"
+
+#: total_simple_contact_from.php:53
+msgid "Captcha timed out. Please refresh captcha to get a new captcha code."
+msgstr "验证码超时。请刷新，从而得到一个新的图形验证码。"
